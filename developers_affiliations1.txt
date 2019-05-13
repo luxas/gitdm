@@ -29044,7 +29044,9 @@ Lucas De Marchi*: lucas.demarchi!profusion.mobi
 	ProFUSION
 Lucas Kannebley Tavares: lucaskt!linux.vnet.ibm.com
 	IBM
-Lucas Käldström: lucas!weave.works, lucas.kaldstrom!hotmail.co.uk, luxas!users.noreply.github.com
+Lucas Käldström: lucas.kaldstrom!hotmail.co.uk
+	Independent
+Lucas Käldström: lucas!weave.works, luxas!users.noreply.github.com
 	Weaveworks
 Lucas Langer: lucaslanger!twitter.com
 	Twitter
